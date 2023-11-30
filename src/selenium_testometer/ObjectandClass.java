@@ -4,38 +4,38 @@ public class ObjectandClass {
 
 		public static void main (String[] args) {
 
-			class Spoon
+			class Online_shopping 
 			{
-				String height;
-				String shape;
-				int size;
+				String shopping_cart;
+				String customer_name;
+				int product_id;
 
-				void eat() {
+				void shopping() {
 
 				}
 			}
 
-			class refrigerator
+			class Dog
 			{
-				int weight;
-				String compressor;
-				String company;
-				Long Energy_Efficiency;
+				String breed;
+				String size;
+				int age;
+				String color;
 
-				void Cool() {
+				void Pet_Animal() {
 
 				}
 
 			}
 
-			class pen
+			class Smartphone
 			{
 
 				String type;
 				String color;
 				double Width;
 
-				void write() {
+				void calling() {
 
 				}
 			}
@@ -122,24 +122,28 @@ public class ObjectandClass {
 				}
 			}
 
+			
 			class Bag
 			{
 
 				String brand;
-				double size;
+				int size;
 				double weight;
 
 				void carry_things() {
 				}
 			}
 
-			class knife
+			
+			
+			class Transport
 			{
-				String material;
-				double weight;
-				double height;
+				String states;
+				String cities;
+				int pincode;
+				double distance;
 
-				void cutting() {
+				void shipments() {
 
 				}
 			}  
@@ -155,52 +159,47 @@ public class ObjectandClass {
 				} 
 			}
 
-			class Bed
+			
+			
+			class students
 			{
-				int weight;
+				int rollno;
 				double Height;
-				double Width;
+				double Weight;
 
-				void sleep() {
+				void attendance() {
 
 				}
 			}
 
-			class Laptop
+			
+			
+			class Books
 			{
-			 String brand;
-			 String color;
-			 double weight;
-			 int RAM;
-			 String Model;
+			 String genre;
+			 String writer;
+			 int total_pages;
+			 String publisher;
 			 
-			 void work() {
+			 void library_records() {
 				 
 			 }
 			}
 			
-			class SportMan
+			
+			
+			class Cricket
 			{
 				
-				String name;
-				String Team;
-				String sportsName;
+				String teams;
+				int score;
+				String location;
 				 
-				void play() {
+				void worldcup2023() {
 					
 				}
 			}
 			
-			class TestCase
-			{
-				String  name;
-				String description;
-				String status;
-				
-				void execute() {
-					
-				}
-			}
 			
 			
 		}
