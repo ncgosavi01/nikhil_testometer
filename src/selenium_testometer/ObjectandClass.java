@@ -14,6 +14,8 @@ public class ObjectandClass {
 
 				}
 			}
+			
+			
 
 			class Dog
 			{
@@ -27,6 +29,8 @@ public class ObjectandClass {
 				}
 
 			}
+			
+			
 
 			class Smartphone
 			{
@@ -39,6 +43,8 @@ public class ObjectandClass {
 
 				}
 			}
+			
+			
 
 			class table
 
@@ -53,37 +59,23 @@ public class ObjectandClass {
 
 				}
 
-
-
 			}
+			
+			
 
-
-			class toothbrush
+			class Registration
 			{
-				double lenght;
-				double width;
-				double height;
-				String material;
+				int total_registrations;
+				String student_name;
+				int marks;
 
-				void Cleaning_teeth() {
-
+				void exam_form() {
 				}
 
 
 			}
-
-			class books
-			{
-				int pages;
-				String content;
-				double weight;
-				String material;
-
-				void Reading() {
-				}
-
-
-			}
+			
+			
 
 			class notebook
 			{
@@ -110,6 +102,8 @@ public class ObjectandClass {
 				}
 
 			}
+			
+			
 
 			class clothes
 			{
